@@ -4,7 +4,7 @@
 - I have a solid experience in artificial intelligence in fields such as computer vision, machine learning, and big data analytics with languages such as C++ and Python and their related libraries such as OpenCV, Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, Keras, and PyTorch.
 - Currently involved in multiple AI/blockchain/distributed system projects with the goal of creating meaningful products using cutting-edge techs. In my free time, I enjoy exploring nature by hiking or running trails, as well as attending tech meetups to explore new trends. 
 
-- 💞️ I'm looking forward to collaborating on competitive IT projects.
+- 💞️ I look forward to collaborating on competitive IT projects.
 - 📫 Reach me by my email: aindamutsa@gmail.com
 
 [//]: # ( 👋 Hi, I'm Indamutsa and I'm an experienced research and development engineer from Germany. I'm passionate about model-driven engineering, cloud computing, computer vision and machine learning. )
