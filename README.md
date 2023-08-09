@@ -1,6 +1,6 @@
 👋🏽 Hi, I’m indamutsa
 
-**👀Research Engineer** | Championing Innovative, Robust, and Scalable Solutions for Complex Problems
+**👀Research Engineer** | _Championing Innovative, Robust, and Scalable Solutions for Complex Problems_
 
 I am a research and development engineer with eight years of experience spanning managerial roles, software development, machine learning, computer vision, robotics, cloud computing, big data analytics, and model-driven engineering. I specialize in assisting organizations in navigating complex problems and discovering innovative, cost-effective solutions. My diverse experiences have enriched my understanding of various research methodologies, empowering me to swiftly pinpoint areas for improvement and devise effective strategies for success.
 
