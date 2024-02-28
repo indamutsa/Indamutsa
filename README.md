@@ -2,15 +2,15 @@
 
 **👀IT Consultant / Senior Developer** | _Championing Innovative, Robust, and Scalable Solutions for Complex Problems_
 
-As R&D engineer with 8 years in software, ML, robotics, cloud, and big data. I craft tools that redefine daily routines, focusing on speed, affordability, and reliability. My approach uses analytics for better decision-making and predictive insights.
+With over eight years of expertise in software and data engineering, cloud computing, machine learning, model-driven engineering, and robotics, I strove to apply diverse research methodologies to pinpoint and address inefficiencies. My approach focuses on devising strategic solutions that significantly boost business value and success.
 
 ### Expertise Fields:
 
-- Model-driven Engineering
 - Software Engineering
-- Cloud Computing
+- Data Engineering
 - Machine Learning
 - DevOps
+- Model-driven Engineering
 - Computer vision & Robotics
 
-Reach me by my email: [aindamutsa@gmail.com](mailto:aindamutsa@gmail.com)
+Reach me by email: [aindamutsa@gmail.com](mailto:aindamutsa@gmail.com)
