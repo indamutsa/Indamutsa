@@ -13,4 +13,4 @@ With over eight years of expertise in software and data engineering, cloud compu
 - Model-driven Engineering
 - Computer vision & Robotics
 
-Reach me by email: [aindamutsa@gmail.com](mailto:aindamutsa@gmail.com)
+Reach me by email: [aindamut@gmail.com](mailto:aindamutsa@gmail.com)
